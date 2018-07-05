@@ -47,7 +47,7 @@ statements and to have a clearer view of the flow of the code in the switch. Eve
 code and delete unused code, if there are such cases.
 
 
- ** One more tip
+ ## One more tip
 
 You can create additional tests, by playing with the seed and generating matrix number of lines and columns. In each test, take the output
 text generated and keep it for the test to pass. See the output mazes and go through the debug steps to see the patterns of maze generation.
